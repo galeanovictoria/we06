@@ -1,0 +1,17 @@
+/*
+Theme name: Twentyseventeen Child Theme
+Theme URI: http://lynda.com/mor10
+Description: A child them of 2017 theme
+Author: Vishi
+Author URI: http://we05.galeano.victoria.yoobee.net.nz
+Template:twentyseventeen
+Version: 0.1.0
+*/
+
+@import url("../twentyseventeen/style.css");
+@import url('https://fonts.googleapis.com/css?family=Cutive');
+
+.site-title{
+	font-family: 'Cutive';
+	font-size: 4em;
+}
