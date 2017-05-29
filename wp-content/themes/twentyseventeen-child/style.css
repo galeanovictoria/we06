@@ -11,7 +11,16 @@ Version: 0.1.0
 @import url("../twentyseventeen/style.css");
 @import url('https://fonts.googleapis.com/css?family=Cutive');
 
-.site-title{
+.site-title {
 	font-family: 'Cutive';
 	font-size: 4em;
 }
+
+.entry-title {
+	font-family: 'Cutive';
+}
+
+.site-branding .wrap {
+	text-align: 
+}
+
